@@ -1,0 +1,26 @@
+.navbar{
+    background-color: black
+}
+.container-itens{
+    background-color: grey
+}
+.logo{
+    white-space: nowrap;
+}
+.name-logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1cm;
+    font-style: none;
+    text-decoration: none;
+    display: inline;
+    white-space: nowrap;
+
+}
+.menu-item{
+    display: inline;
+    font-size:  0.5cm;
+    margin-left: 2cm;
+}
+.menu-list{
+    text-decoration: none;
+}
